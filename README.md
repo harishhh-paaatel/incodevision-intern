@@ -35,9 +35,9 @@ This repository contains a collection of tasks completed during my Data Science 
 
 ## ⚙️ Setup & Installation
 
-git clone https://github.com/harishhh-paaatel/incodevision-intern.git
-cd incodevision-intern
-pip install -r requirements.txt
+- git clone https://github.com/harishhh-paaatel/incodevision-intern.git
+- cd incodevision-intern
+- pip install -r requirements.txt
 
 ## 🚀 How to Use
 Navigate into each task folder and run the corresponding Python script. Detailed instructions are available in each task's individual README.
